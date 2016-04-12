@@ -1,0 +1,6 @@
+name: starcao
+version: 1
+cron:
+- description: cron_starcao
+  url: /cron.php
+  schedule: "2-57/5 11-23,0 * * *"
